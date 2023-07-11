@@ -32,6 +32,7 @@ You have been provided with a dataset containing the following columns –
 - Test Data: Consumer_Complaints_test.csv [Does not have the Consumer Disputed column]
 
 TASK:
+
 PART 1 - DATA EXPLORATION
 PART 2 - TEXT-BASED MODELLING
 PART 3 - CLASSIFICATION MODELS AND FEATURE ENGINEERING
@@ -40,6 +41,7 @@ PART 3 - CLASSIFICATION MODELS AND FEATURE ENGINEERING
 
 
 Overview For Solution:
+
 A set of Classification Algorithms were used. Both Boosting and Bagging methods were used for greater accuracy. 
 My code trains all the ML Algorithms to obtain accuracy Values. The model needs to predict whether the customer will agree with the resolution given to him on his issue or not.
 It then selects the Algorithm giving maximum accuracy and gives us the prediction.
